@@ -1,0 +1,17 @@
+{
+  "name": "App Name",
+  "description": "App description",
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "repository": "https://github.com/theostrich/med-ish",
+  "success_url": "https://telegram.dog/theostrich",
+  "website": "https://theostrich.eu.org",
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
